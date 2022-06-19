@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyle Carcedo</h1>
-<h3 align="center">A passionate Flutter Developer who want t</h3>
+<h3 align="center">A passionate Flutter Developer from Philippines</h3>
 
 - 🔭 I’m currently working on **a Mobile Mechanic Application.**
 
