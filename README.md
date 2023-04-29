@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lyle Carcedo</h1>
 <h3 align="center">A passionate Flutter Developer from Philippines</h3>
 
-- 🔭 I’m currently working on **a Mobile Mechanic Like Application.**
+- 🔭 I’m currently working on **mobile apps made with Flutter.**
 
-- 🌱 I’m currently working on **improving my skills as a Flutter Developer.**
+- 🌱 I’m currently working on **improving my skills as a Flutter/Mobile Developer.**
 
 - 👯 I’m looking forward to collaborate on **projects related to Mobile Development.**
 
