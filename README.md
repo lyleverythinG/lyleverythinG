@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lyle Carcedo</h1>
-<h3 align="center">A passionate Flutter Developer from Philippines</h3>
+<h3 align="center">A passionate Mobile App Developer from Philippines</h3>
 
-- 🔭 I’m currently working on **mobile apps made with Flutter.**
+- 🔭 I’m currently working on **EHR mobile app called ChartEasy Mobile**
 
-- 🌱 I’m currently working on **improving my skills as a Flutter/Mobile Developer.**
+- 🌱 I’m currently working on **improving my skills as a mobile developer and currently focusing in learning native iOS development.**
 
-- 👯 I’m looking forward to collaborate on **projects related to Mobile Development.**
+- 👯 I’m looking forward to collaborate on **projects related to Mobile App Development.**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **lylecarcedo@gmail.com**
+- 📫 How to reach me **lylecarcedo@gmail.com** , LinkedIn: https://www.linkedin.com/in/lylecarcedo/
 
 
 <h3 align="left">Connect with me:</h3>
