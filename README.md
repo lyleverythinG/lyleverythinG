@@ -24,7 +24,4 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a>
     <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/> </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/> </a>
-  <a href="https://codemagic.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/codemagic/codemagic-icon.svg" alt="CodeMagic" width="40" height="40"/> </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian/jira-icon.svg" alt="Jira" width="40" height="40"/> </a>
-  <a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" width="40" height="40"/> </a>
 </p>
