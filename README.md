@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lyle Carcedo</h1>
 <h3 align="center">A passionate Mobile App Developer from Philippines</h3>
 
-- 🔭 I’m currently working on an **EHR mobile app called ChartEasy Mobile**
+- 🔭 I’m currently working on an **EHR mobile app called ChartEasy Mobile and a concussion recovery app**
 
 - 🌱 I’m currently working on **improving my skills as a mobile developer and currently focusing in learning native iOS development.**
 
